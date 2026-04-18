@@ -3,7 +3,7 @@
 ### AI-Powered Career Preparation Platform
 
 CareerForge is a full-stack AI-driven platform designed to help students and job seekers prepare for their careers through resume analysis, mock interviews, performance tracking, and personalized career guidance.
-
+  
 ---
 
 ##  Features
